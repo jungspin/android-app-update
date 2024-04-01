@@ -1,7 +1,7 @@
 {
     "latestVersion": "2.0.0",
     "latestVersionCode": 2,
-    "url": "https://github.com/jungspin/android-app-update/releases",
+    "url": "https://raw.githubusercontent.com/jungspin/android-app-update/master/app-debug.apk",
     "releaseNotes": [
         "- First evolution",
         "- Second evolution",
